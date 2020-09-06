@@ -6,7 +6,7 @@
 <p>
 I recently studied Vue together with laravel. This project was laborious and exhausting, I spent hours together developing a web course I was studying. The result pleased me a lot, it still needs adjustments and the creation of more complex new functions, but it is still a very interesting project in which I was challenged.
 </p>
-
+[pt-br]
 <hr>
 Recentemente andei estudando Vue em conjunto com laravel. Esse projeto foi trabalhoso e exaustivo, passei horas desenvolvendo em conjunto a um curso web que estava estudando. O resultado me agradou bastante, ainda precisa de ajustes e criação de novas funções mais complexas, mas ainda é um projeto muito interessante no qual eu fui desafiado.
 ##Tutorial - installation 
