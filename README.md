@@ -56,6 +56,7 @@ In directory WebService
 # install dependencies
 composer install || composer dump-autoload (default laravel installation or clone project)
 you need create and config .env File. 
+# Run php artisan serve
 ``` 
 <h3>Composer is required.</h3>
 <hr>
